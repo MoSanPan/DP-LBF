@@ -17,8 +17,8 @@ DP-LBF
 
 ## Dataset
 
-* The URL dataset is publicly available at \url{https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset}}.
+* The URL dataset is publicly available at \url{https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset}.
 
-* The Bank Market dataset is publicly available at \url{https://archive.ics.uci.edu/dataset/222/bank+marketing}}.
+* The Bank Market dataset is publicly available at \url{https://archive.ics.uci.edu/dataset/222/bank+marketing}.
 
-* The redit card\footnote{The Credit card dataset is publicly available at \url{https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients}}.
+* The Credit card dataset is publicly available at \url{https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients}.
