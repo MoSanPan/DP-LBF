@@ -1,5 +1,5 @@
 # DLDP-BF
-DP-LBF_2025
+DP-LBF
 
 ## File structure
 
