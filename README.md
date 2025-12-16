@@ -14,3 +14,11 @@ DP-LBF
 * UltraFilter: first inserts all elements of the original set $S$ into a Bloom filter. Then, each bit of the Bloom filter is independently flipped to 1 with probability $\frac{e^\epsilon}{e^\epsilon + 1}$, while no bits are flipped to 0.
 
 * DP-LBF：Applies the exponential mechanism to select the Bloom filter decision threshold while using an adaptive backup Bloom filter to preserve utility under differential privacy.
+
+## Dataset
+
+* The URL dataset is publicly available at \url{https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset}}.
+
+* The Bank Market dataset is publicly available at \url{https://archive.ics.uci.edu/dataset/222/bank+marketing}}.
+
+* The redit card\footnote{The Credit card dataset is publicly available at \url{https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients}}.
